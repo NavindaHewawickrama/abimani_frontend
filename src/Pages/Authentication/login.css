@@ -1,0 +1,30 @@
+.login-container {
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  .form-container {
+    width: 700px;
+    height: 50vh;
+    border: 2px solid #87bbff;
+    border-radius: 1rem;
+    margin-top: 150px;
+    margin-left: 50px;
+    padding: 40px;
+    background-color: #acacac;
+  }
+  
+  h2 {
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    margin-bottom: 40px;
+  }
+  
+  form {
+    width: 500px;
+  }
+  

@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Signup from '../src/Pages/signup';
-import Login from '../src/Pages/login';
+import Signup from './Pages/Authentication/signup';
+import Login from './Pages/Authentication/login';
 import { BrowserRouter,Routes,Route } from 'react-router-dom';
 
 function App() {
